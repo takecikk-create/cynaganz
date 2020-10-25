@@ -11,7 +11,7 @@ Script dark fb terbaru untuk hack akun fb tanpa harus login
 ```
 # Install
 ```
-• git clone https://github.com/cynaganz/hekel
+• git clone https://github.com/takecikk-create/cynaganz
 • cd cynaganz
 • python2 main.py
 ```
